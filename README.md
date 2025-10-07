@@ -1,6 +1,8 @@
 # dispositivos_moviles_2025_2
 En este repositorio se estarán subiendo los proyectos de la materia de dispositivos móviles 2025-2
 
+Aquí un ejemplo de lo que deberíamos tener en este archivo readme
+
 | Proyecto           | Enlace al repositorio                                 |
 |--------------------|------------------------------------------------------|
 | Calculadora        | [calculadora](https://github.com/dispositivos_moviles_2025_2/calculadora)       |

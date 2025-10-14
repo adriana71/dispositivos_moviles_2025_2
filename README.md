@@ -10,3 +10,4 @@ Aquí un ejemplo de lo que deberíamos tener en este archivo readme
 | Calculadora        | [calculadora](https://github.com/dispositivos_moviles_2025_2/calculadora)       |
 | Tienda Online      | [Tienda-online](https://github.com/dispositivos_moviles_2025_2/tienda-online) |
 | Chatbot            | [chatbot](https://github.com/dispositivos_moviles_2025_2/chatbot)           |
+| Control de Acceso  | [chatbot](https://github.com/MarcoSolorio24/AccessControl_AndroidStudio)     |

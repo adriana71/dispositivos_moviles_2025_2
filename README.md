@@ -12,3 +12,4 @@ Aquí un ejemplo de lo que deberíamos tener en este archivo readme
 | Chatbot            | [chatbot](https://github.com/dispositivos_moviles_2025_2/chatbot)           |
 | Control de Acceso  | [Control de Acceso](https://github.com/MarcoSolorio24/AccessControl_AndroidStudio)     |
 | Cinemática Inversa | [Cinemática Inversa](https://github.com/Alejandro250901/Cinematica-Inversa)     |
+| Nutrición          | [Nutrición](https://github.com/EmmanuelTorresSalinas/Nutricion)     |

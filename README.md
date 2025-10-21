@@ -13,3 +13,4 @@ Aquí un ejemplo de lo que deberíamos tener en este archivo readme
 | Control de Acceso  | [Control de Acceso](https://github.com/MarcoSolorio24/AccessControl_AndroidStudio)     |
 | Cinemática Inversa | [Cinemática Inversa](https://github.com/Alejandro250901/Cinematica-Inversa)     |
 | Nutrición          | [Nutrición](https://github.com/EmmanuelTorresSalinas/Nutricion)     |
+| Soldadura SMD          | [SMD](https://github.com/FormulaCashew/Android-ReflowOven)     |
